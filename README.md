@@ -1,3 +1,3 @@
 # Projeto Be the Hero - Semana Omnistack11
-https://badge.fury.io/{{programming_language:js}}/{{project_name}}.svg	
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 
