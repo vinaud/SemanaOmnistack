@@ -4,3 +4,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+NodeJS Versão 12.16.1  React - Naive Versão 16.13.0
+
