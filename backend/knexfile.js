@@ -13,6 +13,17 @@ module.exports = {
         },
     },
 
+    test: {
+        client: 'sqlite3',
+        connection: {
+            filename: './src/database/test.sqlite'
+        },
+
+        migrations: {
+            directory: './src/database/migrations'
+        },
+    },
+
 
 
     staging: {
