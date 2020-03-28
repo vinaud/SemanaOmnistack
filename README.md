@@ -7,5 +7,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 NodeJS Versão 12.16.1 
-React - Native 
+ReactJs Versão 16.12.0
+React Native Versão 0.62
 
