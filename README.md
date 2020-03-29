@@ -24,3 +24,7 @@
 
 ### Cadastro de novo caso
 ![caso](https://i.imgur.com/vxXKf2h.jpg)
+
+![caso](https://i.imgur.com/BJsUync.jpg)
+![caso](https://i.imgur.com/3i6ogMv.jpg)
+
