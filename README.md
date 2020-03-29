@@ -13,6 +13,6 @@
 
 ## Telas do projeto
 
-![listagem](https://imgur.com/h5qKFJz)
-![cadastro](https://imgur.com/ck5298y)
-![caso](https://imgur.com/vxXKf2h)
+![listagem](https://i.imgur.com/h5qKFJz.jpg)
+![cadastro](https://i.imgur.com/ck5298y.jpg)
+![caso](https://i.imgur.com/vxXKf2h.jpg)
