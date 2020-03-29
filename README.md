@@ -16,11 +16,11 @@
 
 ## Telas do projeto
 
-###Cadastro de ONG no sistema
+### Cadastro de ONG no sistema
 ![cadastro](https://i.imgur.com/ck5298y.jpg)
 
-###Listagem de casos de uma ONG
+### Listagem de casos de uma ONG
 ![listagem](https://i.imgur.com/h5qKFJz.jpg)
 
-###Cadastro de novo caso
+### Cadastro de novo caso
 ![caso](https://i.imgur.com/vxXKf2h.jpg)
