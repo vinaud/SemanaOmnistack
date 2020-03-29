@@ -6,6 +6,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+## Descrição
+
+
 ## Tecnologias Usadas
 - NodeJS Versão 12.16.1 
 - ReactJs Versão 16.12.0
@@ -13,6 +16,11 @@
 
 ## Telas do projeto
 
-![listagem](https://i.imgur.com/h5qKFJz.jpg)
+###Cadastro de ONG no sistema
 ![cadastro](https://i.imgur.com/ck5298y.jpg)
+
+###Listagem de casos de uma ONG
+![listagem](https://i.imgur.com/h5qKFJz.jpg)
+
+###Cadastro de novo caso
 ![caso](https://i.imgur.com/vxXKf2h.jpg)
