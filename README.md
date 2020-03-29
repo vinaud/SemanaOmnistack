@@ -7,7 +7,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ## Descrição
-
+Projeto desenvolvido no workshop Semana Omnistack 11. O "Be the hero" é um sistema que permite que ONGs possam cadastrar casos no sistema, podendo receber ajuda na sua resolução. Na versão mobile do sistema, um usuário pode visualizar os casos disponíveis e oferecer ajuda financeira à ONG, entrando em contato direto com ela.
 
 ## Tecnologias Usadas
 - NodeJS Versão 12.16.1 
