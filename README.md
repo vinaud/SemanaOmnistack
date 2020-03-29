@@ -11,3 +11,8 @@
 - ReactJs Versão 16.12.0
 - React Native Versão 0.62
 
+## Telas do projeto
+
+![listagem](https://imgur.com/h5qKFJz)
+![cadastro](https://imgur.com/ck5298y)
+![caso](https://imgur.com/vxXKf2h)
