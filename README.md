@@ -26,6 +26,6 @@
 ![caso](https://i.imgur.com/vxXKf2h.jpg)
 
 ## Telas Mobile
-<img src="https://i.imgur.com/BJsUync.jpg" width="400" height="790"> <img src="https://i.imgur.com/3i6ogMv.jpg" width="400" height="790">
+<img src="https://i.imgur.com/BJsUync.jpg" width="400" height="790">  <img src="https://i.imgur.com/3i6ogMv.jpg" width="400" height="790">
 
 
